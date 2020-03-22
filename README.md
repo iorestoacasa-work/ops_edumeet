@@ -1,4 +1,4 @@
-# ops_edumeeta - PRIVATE
+# ops_edumeet - PUBLIC iorestoacasa.work
 
 Automation to provision edumeets instances https://wiki.geant.org/display/COV/COVID-19-eduMEET+Home
 
